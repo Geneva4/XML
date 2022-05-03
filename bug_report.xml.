@@ -1,15 +1,15 @@
-title: Word 'Wellcome' in header written incorrettly,
+title: Word 'Wellcome' in header written incorrectly,
 steps: Go up to the screen on the main page till the big sign 'Wellcome' right in the midle, 
 notes: write 'Welcome' instead,
   
-title: Auto timezone mode is working inccorectly,
-steps: Be on the main page, click setttings in a right upper coner and then autochoose,
+title: Auto timezone mode is working incorrectly,
+steps: Be on the main page, click settings in a right upper corner and then auto-choose,
 notes: Change timezone to +3hrs,
 expected result": "chooses timezone correctly,
-actual result": "chooses inccorect timezone,
+actual result": "chooses incorrect timezone,
   
 title: Button 'Get verification code' down the screen is in not clickable,
-steps: In a registration window after filling email click the button 'Get veryfication code',
+steps: In a registration window after filling email click the button 'Get verification code',
 notes: "Make the button clickable,
 expected result": "Button is clickable,
-actal result": "Button is not clickable
+actual result": "Button is not clickable
